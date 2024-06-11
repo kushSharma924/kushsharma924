@@ -1,28 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1>
-
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
-
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
-
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
-
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
-
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kushSharma924&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kushSharma924&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kushSharma924&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
